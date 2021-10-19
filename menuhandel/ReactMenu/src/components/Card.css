@@ -1,0 +1,63 @@
+.cardCont {
+  height: 390px;
+  width: 280px;
+  background-color: rgb(240, 248, 248);
+  border-radius: 10px 20px;
+}
+.cardCont img {
+  height: 40.2%;
+  border-radius: 10px 10px;
+}
+.cardCont span {
+  float: right;
+  margin-right: 5%;
+  margin-top: 2%;
+}
+
+.cardCont p {
+  margin-left: 5%;
+  color: rgb(109, 76, 228);
+  float: left;
+  margin-top: 2%;
+}
+
+#info {
+  color: black;
+  font-weight: lighter !important;
+}
+
+#calInfo {
+  font-weight: lighter;
+  text-align: center !important;
+  display: grid;
+  width: 100%;
+  grid-template-areas: "a b c";
+}
+.cal {
+  color: gray;
+}
+#orderme {
+  display: grid;
+  width: 100%;
+  grid-template-areas: "a b c";
+  margin-top: 5%;
+}
+#orderme button {
+  padding-left: 1%;
+  margin-right: 5%;
+  border-radius: 10px;
+  border: 0px;
+  background-color: rgb(119, 199, 119);
+}
+
+.dis {
+  margin-top: 2%;
+  color: red !important;
+  font-size: small;
+  text-decoration: line-through;
+}
+#price {
+  margin-top: 2%;
+  margin-left: 15%;
+  color: rgb(39, 70, 4) !important;
+}
