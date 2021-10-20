@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+input {
+  width: 40%;
+}
+button {
+  border: 0px;
+  background-color: green;
+  border-radius: 10px;
+  height: 30px;
+  width: 70px;
+}
+
+#del {
+  background-color: red;
+}
