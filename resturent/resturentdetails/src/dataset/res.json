@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Loremdass Ipsum ",
+    "cardOnly": true,
+    "totalvotes": 112,
+    "votes": 6534,
+    "min": 212,
+    "costforone": 900,
+    "img": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+    "address": "orem Ipsum is simply dummy t"
+  },
+  {
+    "name": "Loresafsamdsa Ipsum ",
+    "cardOnly": false,
+    "totalvotes": 231,
+    "votes": 352,
+    "min": 50,
+    "costforone": 650,
+    "img": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+    "address": "orem Ipsum is simply dummy t"
+  },
+  {
+    "name": "LoremAS Ipsum ",
+    "cardOnly": true,
+    "totalvotes": 112,
+    "votes": 1233,
+    "min": 1123,
+    "costforone": 600,
+    "img": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+    "address": "orem Ipsum is simply dummy t"
+  }
+]

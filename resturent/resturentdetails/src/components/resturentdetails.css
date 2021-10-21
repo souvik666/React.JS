@@ -1,0 +1,33 @@
+.cardCont {
+  height: 150px;
+  width: 400px;
+  background-color: rgb(255, 255, 255);
+  margin-bottom: 2%;
+  padding-right: 3%;
+  border-radius: 10px 20px;
+}
+.cardCont img {
+  height: 150px;
+  float: left;
+}
+.cardname {
+  font-weight: bolder;
+}
+
+.cardaddress {
+  margin-top: 0px;
+  font-size: normal;
+}
+#card {
+  padding-left: 40%;
+  padding-right: 20%;
+}
+#min {
+  float: right;
+  font-size: small;
+}
+#vote {
+  float: right;
+  font-weight: lighter;
+  font-size: small;
+}

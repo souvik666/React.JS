@@ -1,0 +1,7 @@
+#cont {
+  width: 210px;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-areas: "a b";
+  grid-gap: 3%;
+}
