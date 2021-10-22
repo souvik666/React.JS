@@ -1,0 +1,38 @@
+.myInput {
+  text-align: center;
+  width: 50%;
+  margin-top: 10%;
+  position: absolute;
+  right: 25%;
+}
+
+.todolist {
+  width: 50%;
+  height: 300px;
+  position: absolute;
+  margin-top: 18%;
+  right: 25%;
+}
+@media (min-width: 1000px) {
+  .todolist {
+    margin-top: 19%;
+  }
+}
+
+@media (max-width: 900px) {
+  .todolist {
+    margin-top: 22%;
+  }
+}
+
+@media (max-width: 700px) {
+  .todolist {
+    margin-top: 25%;
+  }
+}
+
+@media (max-width: 376px) {
+  .todolist {
+    margin-top: 29%;
+  }
+}
