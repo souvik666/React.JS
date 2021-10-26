@@ -1,0 +1,26 @@
+{
+  "todos": [
+    {
+      "data": {
+        "name": "dfsfsdfds",
+        "age": "23",
+        "address": "grgfd",
+        "deperment": "",
+        "salary": "43243242",
+        "married": true
+      },
+      "id": 1
+    },
+    {
+      "data": {
+        "name": "hello wrold",
+        "age": "12",
+        "address": "sfdsdf",
+        "deperment": "lime",
+        "salary": "123",
+        "married": true
+      },
+      "id": 3
+    }
+  ]
+}
