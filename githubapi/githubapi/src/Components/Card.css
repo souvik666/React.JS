@@ -1,0 +1,15 @@
+.container {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(245, 241, 233);
+  border-radius: 20px 30px;
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+  letter-spacing: 1px;
+  font-weight: bolder;
+}
+
+.App {
+  display: grid;
+  grid-template-columns: auto;
+}
